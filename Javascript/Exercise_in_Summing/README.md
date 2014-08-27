@@ -4,8 +4,8 @@
 
 Your task is to finish two functions, minimumSum and maximumSum, that take 2 parameters:
 
-values - an array of integers with an arbitrary length; may be positive and negative
-n - how many integers should be summed; always 0 or bigger
+- values - an array of integers with an arbitrary length; may be positive and negative
+- n - how many integers should be summed; always 0 or bigger
 
 ### Example:
 
